@@ -17,4 +17,4 @@ python -m SimpleHTTPServer 9000
 最后打开浏览器，进入localhost:9000即可
 
 ## 资源
-[Linux Shell Scripting Tutorial](http://www.freeos.com/guides/lsst/)
+- [Linux Shell Scripting Tutorial](http://www.freeos.com/guides/lsst/)
